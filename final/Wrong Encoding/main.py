@@ -1,6 +1,3 @@
-import math
-from utils import process_json_file, manipulate_string
-import re
-
+# This is the main function
 process_json_file()
 

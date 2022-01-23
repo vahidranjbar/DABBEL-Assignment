@@ -1,6 +1,4 @@
 from unittest import result
-from urllib import response
-from matplotlib.pyplot import axis
 import pandas as pd
 import numpy as np
 from datetime import timedelta
